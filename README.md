@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="mairaperveen" /> </p>
 
-- 🔭 I’m currently working on [30 Days of Developers](https://maira-portfolio-website.vercel.app/
+- 🔭 I’m currently working on [My Portfolio Speaks Itself!](https://maira-portfolio-website.vercel.app/
 ))
 
 - 🌱 I’m currently learning **Next JS & Type Script**
