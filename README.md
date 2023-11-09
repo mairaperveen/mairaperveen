@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maira Perveen</h1>
-<p align="center">A passionate software developer from Pakistan to Germany.I have expertise in MERN development.I have worked in different corporate companies in my free time I make YouTube videos at</p>
+<p <b> align="center">A passionate software developer from Pakistan to Germany.I have expertise in MERN development.I have worked in different corporate companies in my free time, I make YouTube videos at @lifeineurope302</b></p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="mairaperveen" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS & Type Script**
 
-- 👯 I’m looking to collaborate on **MERN project**
+- 👯 I’m looking to collaborate on the MERN project.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mairaperveen](https://github.com/mairaperveen)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **maira.perveen25@gmail.com**
 
-- [![An image of @mairaperveen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mairaperveen)](https://holopin.io/@mairaperveen)
+[![An image of @mairaperveen's Holopin badges, which is a link to view their full Holopin profile]] (https://holopin.me/mairaperveen)](https://holopin.io/@mairaperveen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="">
