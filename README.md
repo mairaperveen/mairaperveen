@@ -43,6 +43,12 @@
 <br />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mairaperveen&show_icons=true&locale=en&layout=compact" alt="mairaperveen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mairaperveen&show_icons=true&locale=en" alt="mairaperveen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mairaperveen&" alt="mairaperveen" /></p>
+
 
 
 
