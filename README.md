@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maira Perveen</h1>
-<p align="center"><b>A passionate software developer from Pakistan to Germany.I have expertise in MERN development.I have worked in different corporate companies in my free time, I make YouTube videos at @lifeineurope302</b></p>
+<p align="center"><b>A passionate automation test engineer from Pakistan to Germany.I have expertise in Selenium,Cypress & Playwright.I have worked in different corporate companies.In my free time, I make YouTube videos at @veritavista</b></p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="mairaperveen" /> </p>
@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on [My Portfolio Speaks Itself!](https://maira-portfolio-website.vercel.app/
 ))
 
-- 🌱 I’m currently learning **Next JS & Type Script**
+- 🌱 I’m currently learning **RestAssured**
 
-- 👯 I’m looking to collaborate on the MERN project.
+- 👯 I’m looking to collaborate on the Automotive project.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mairaperveen](https://github.com/mairaperveen)
 
