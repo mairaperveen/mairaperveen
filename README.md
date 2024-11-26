@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maira Perveen</h1>
-<p align="center"><b>A passionate automation test engineer from Pakistan to Germany.I have expertise in Selenium,Cypress & Playwright.I have worked in different corporate companies.In my free time, I make YouTube videos at @veritavista</b></p>
+<p align="center"><b>A Passionate Data Analyst transitioning from Pakistan to Germany with expertise in SQL, Python, Excel, and Tableau. Experienced in transforming data into actionable insights in corporate settings. In my free time, I create content on data analytics at @veritavista.</b></p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="mairaperveen" /> </p>
@@ -7,15 +7,15 @@
 - 🔭 I’m currently working on [My Portfolio Speaks Itself!](https://maira-portfolio-website.vercel.app/
 ))
 
-- 🌱 I’m currently learning **RestAssured**
+- 🌱 I’m currently learning **GenAI**
 
-- 👯 I’m looking to collaborate on the Automotive project.
+- 👯 I’m looking to collaborate on the Data Science project.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mairaperveen](https://github.com/mairaperveen)
 
 - 📝 I regularly write articles on [https://medium.com/@maira.qadir96](https://medium.com/@maira.qadir96)
 
-- 💬 Ask me about **Design,Develope and Testing**
+- 💬 Ask me about **Data Analyst,Data Science and Machine Learning**
 
 - 📫 How to reach me **maira.perveen25@gmail.com**
 
@@ -42,11 +42,7 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mairaperveen&show_icons=true&locale=en&layout=compact" alt="mairaperveen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mairaperveen&show_icons=true&locale=en" alt="mairaperveen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mairaperveen&" alt="mairaperveen" /></p>
 
 
 
