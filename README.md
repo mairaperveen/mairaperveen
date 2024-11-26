@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [My Portfolio Speaks Itself!](https://maira-portfolio-website.vercel.app/
 ))
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on the Data Science project.
 
