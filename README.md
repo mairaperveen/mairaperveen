@@ -45,8 +45,9 @@
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Excel" width="40" height="40"/>
+</a>
+
   
   <!-- Data Visualization -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
