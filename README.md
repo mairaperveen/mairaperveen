@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maira Perveen</h1>
-<p align="center"><b>A Passionate Data Analyst transitioning from Pakistan to Germany with expertise in SQL, Python, Excel, and Tableau. Experienced in transforming data into actionable insights in corporate settings. In my free time, I create content on data analytics at @veritavista.</b></p>
+<p align="center"><b>A Passionate Software Developer transitioning from Pakistan to Germany with expertise in SQL, Python, Java, and JavaScript. specialize in delivering robust, scalable, and maintainable code that drives business success. In my free time, I create content on life traveling @veritavista.</b></p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairaperveen&label=Profile%20views&color=0e75b6&style=flat" alt="mairaperveen" /> </p>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on the Data Science project.
+- 👯 I’m looking to collaborate on the Python project.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mairaperveen](https://github.com/mairaperveen)
 
 - 📝 I regularly write articles on [https://medium.com/@maira.qadir96](https://medium.com/@maira.qadir96)
 
-- 💬 Ask me about **Data Analyst,Data Science and Machine Learning**
+- 💬 Ask me about **Software Development Application Development and Software Solution**
 
 - 📫 How to reach me **maira.perveen25@gmail.com**
 
